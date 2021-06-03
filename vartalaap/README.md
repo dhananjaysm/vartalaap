@@ -1,4 +1,4 @@
-# Vartlaap - realtime chat app 
+# Vartalaap - realtime chat app 
 
 - login
 - registration
